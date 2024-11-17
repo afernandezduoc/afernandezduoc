@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Angular and Java Spring Framework.
+- 🌱 I’m currently learning Angular and Java / Spring Framework.
 <!--
 **afernandezduoc/afernandezduoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
